@@ -8,11 +8,14 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
 
 ## Instructions
 
+
 1. Comprendre le code en HTML et JS
+######check
 
 2. Faire en sorte que la fonction start() soit executée sans appuyer sur le bouton #button-load-forecast.
 Le bouton se sert donc plus à rien, il faut l'enlever.
-*Hint: Voir la propriété onload.*
+*Hint: Voir la propriété onload.* 
+######check
 
 3. Par défault la ville choisi pour les prédictions météo est Paris. Faire en sorte que votre user puisse rentrer le nom d'une ville dans l'input. Lorsqu'il appuit sur **Actualiser** cela actualise les informations avec la bonne ville. Il faut donc faire une requete différente.
 *Hint: [Comment récupérer la valeur d'un input](https://stackoverflow.com/questions/11563638/how-do-i-get-the-value-of-text-input-field-using-javascript)*
